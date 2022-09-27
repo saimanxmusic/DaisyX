@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
 
-# <p align="center"><a href="https://github.com/TeamDaisyX/DaisyX"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamDaisyX&show_icons=true&theme=dracula&hide_border=true&repo=DaisyX"></a></p>
+# <p align="center"><a href="https://github.com/Manageking_bot/DaisyX"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamDaisyX&show_icons=true&theme=dracula&hide_border=true&repo=DaisyX"></a></p>
 <p align="center">
 
 
@@ -46,7 +46,7 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Manageking_bot/DaisyX.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
